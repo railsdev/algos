@@ -21,7 +21,7 @@ describe TreeNode do
     end
   end
 
-  describe "given a symmetric tree" do
+  describe "given a asymmetric tree" do
 
     before do
       @tree = TreeNode.new(0)
