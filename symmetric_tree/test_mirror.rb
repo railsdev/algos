@@ -1,5 +1,5 @@
-require "minitest/autorun"
-require "./mirror"
+require_relative "../minitest_helper"
+require_relative "./mirror"
 describe TreeNode do
   describe "given a symmetric tree" do
 
