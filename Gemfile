@@ -2,5 +2,6 @@
 source "https://rubygems.org"
 
 gem 'rake'
+gem 'minitest-byebug'
 gem 'minitest-reporters'
 # gem "rails"
